@@ -19,7 +19,7 @@ This project is a simple "Contact Us" page built using HTML, CSS, PHP, and JavaS
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/contact-us-page.git
+    git clone https://github.com/Kundank27/Contact-me-page.git
     cd contact-us-page
     ```
 
